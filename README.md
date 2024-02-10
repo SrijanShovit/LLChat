@@ -35,3 +35,32 @@ This Streamlit app is a small but powerful tool for answering questions using st
 
 ![When asked about Lord Ganesha part 2](https://github.com/SrijanShovit/LLChat/blob/master/Screenshots/Screenshot%20(36).png)
 
+---
+
+## Getting Started 🚀
+
+To run PDFChat locally, you'll need to have Python installed. Then, follow these steps:
+
+1. **Clone the repository**: 📁 Clone this repository to your local machine.
+2. **Install dependencies**: 💻 Install the required dependencies using pip:
+
+   ```
+   pip install -r requirements.txt
+   ```
+
+3. **Run the app**: ▶️ Run the Streamlit app:
+
+   ```
+   streamlit run chatting.py
+   ```
+
+4. **Access the app**: 🌐 Access the Streamlit app in your web browser.
+
+## Contributing 🤝
+
+Contributions to PDFChat are welcome! If you'd like to contribute, please fork the repository and submit a pull request.
+
+---
+
+Feel free to customize the README as needed and add any additional information or sections based on the specific requirements of your project.
+
