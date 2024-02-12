@@ -58,7 +58,7 @@ To run PDFChat locally, you'll need to have Python installed. Then, follow these
 
 ## Contributing 🤝
 
-Contributions to PDFChat are welcome! If you'd like to contribute, please fork the repository and submit a pull request.
+Contributions to LLChat are welcome! If you'd like to contribute, please fork the repository and submit a pull request.
 
 ---
 
