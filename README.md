@@ -4,7 +4,7 @@ Welcome to the Streamlit Question Answering App! This application utilizes the p
 
 ## 📚 Overview
 
-This Streamlit app is a small but powerful tool for answering questions using state-of-the-art language models. Powered by LangChain and the Falcon-7B open source LLM model, it delivers insightful answers to a wide range of queries.
+This Streamlit app is a small but powerful tool for answering questions using state-of-the-art language models. Powered by LangChain and the Falcon-7B open source LLM model at HuggingFace🤗 , it delivers insightful answers to a wide range of queries.
 
 ## ✨ Features
 
